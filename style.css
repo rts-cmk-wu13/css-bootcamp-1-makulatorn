@@ -1,0 +1,24 @@
+*{
+    background-color: black;
+    color: white;
+    font-family:"VT323", monospace;
+}
+
+li:last-child{
+    background-color: green;
+}
+
+h1, img, li{
+    margin:2em;
+}
+
+dt{
+    float: left;
+}
+dd{
+    float: right;
+}
+
+p{
+    color: aquamarine;
+}
