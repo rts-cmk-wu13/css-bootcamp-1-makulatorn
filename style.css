@@ -22,3 +22,8 @@ dd{
 p{
     color: aquamarine;
 }
+
+img{
+    max-width: 100px; /*gjort mindre bare forbi :) */
+    width: 50px;
+}
